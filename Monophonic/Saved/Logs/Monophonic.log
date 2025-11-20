@@ -1687,3 +1687,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 
 [2025.11.20-14.19.15:023][  0]LogPython: Display: Running start-up script D:/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 60.013 ms
 [2025.11.20-14.19.15:063][  1]LogSourceControl: Uncontrolled asset enumeration finished in 0.145374 seconds (Found 7440 uncontrolled assets)
+[2025.11.20-14.21.06:221][880]LogDerivedDataCache: C:/Users/w24734957/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
