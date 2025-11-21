@@ -166,7 +166,6 @@
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/D/B2/PWUAZY6VQQNPY42WFSS8JL.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/A/6X/Z9HSWIZOP6O0D0KJ6C1YJ1.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/2/7J/GHOFF2QTE1Z1LKHOCKXGE3.uasset",
-				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/D/6B/XOICR4I0KW7QTN9LUWN3RZ.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/E/Z2/VMGIAPKF6ZR9LA2Y5UC3Y2.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/E/2F/QG78RSSZSVCS10UJ0WC18F.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/B/HJ/IIW2KLTQ72KJCW7168M05H.uasset",
@@ -281,7 +280,6 @@
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Fatih/Stations/StationConspiracy.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Fatih/Stations/StationEntertainment.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Fatih/Stations/StationNews.uasset",
-				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/RadioActor.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Fatih/Stations/Static.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/HUD/UI_HUD.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/HUD/DOTCROSSHAIR.uasset",
@@ -291,9 +289,12 @@
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/BP_MasterItem.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/InteractiveSystem/BPI_Interaction.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/InteractiveSystem/EBUTTON.uasset",
-				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/InteractiveSystem/InteractOutline.uasset",
 				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/Item_Radio.uasset",
-				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/E/3Q/YOYX7MFHP3LJNAIXWYS7M1.uasset"
+				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/E/3Q/YOYX7MFHP3LJNAIXWYS7M1.uasset",
+				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/InteractiveSystem/Outline.uasset",
+				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/__ExternalActors__/Erin/ErinTestLevel/D/6B/XOICR4I0KW7QTN9LUWN3RZ.uasset",
+				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/RadioActor.uasset",
+				"D:/MonophonicDevelopment/Monophonic/Monophonic/Content/Erin/InteractiveSystem/InteractOutline.uasset"
 			]
 		}
 	]
