@@ -20,6 +20,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4957000C8EC9369725B9F92D615BAAEC9260CDA0",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/twalet/Material_003",
+				"/Game/Daniels/Models/Furniture/twalet/Material_008"
+			]
+		},
+		{
 			"ShaderMapHash": "D0688F0D32DEDBC1BC75E19154E46750EB9D548A",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
@@ -44,6 +51,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "01EEB214E359EB3B745412F7B84EF7899A3A36FD",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/plant/Material_002",
+				"/Game/Daniels/Models/Furniture/plant/Material_013"
+			]
+		},
+		{
 			"ShaderMapHash": "54D71517F1C018C8A83D0A4115261C390AAF12C8",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial"
@@ -59,6 +73,12 @@
 			"ShaderMapHash": "9CDADF17E59F837132097FE43CFB96A5F3DA0355",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "4CE25F1D1DABF6E05F47753EF48B618A10F07011",
+			"Assets": [
+				"/Game/Daniels/Models/Layout/materials/green"
 			]
 		},
 		{
@@ -86,9 +106,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "71C9F122F8AA095E95F8B5CFB644437F44A476FE",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/twalet/Material_004",
+				"/Game/Daniels/Models/Furniture/twalet/Material_007"
+			]
+		},
+		{
 			"ShaderMapHash": "646D7C24A04CED1EDFE90950A2F6607E8984052D",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
+			]
+		},
+		{
+			"ShaderMapHash": "E9CF08272DEB3071D457179A949333818DD9F721",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/plant/Material_008"
 			]
 		},
 		{
@@ -107,6 +140,12 @@
 			"ShaderMapHash": "C07A8D2E15BC0D39B75FA443D66E9FE431D9F6CD",
 			"Assets": [
 				"/Game/Daniels/Models/Layout/materials/offwhite"
+			]
+		},
+		{
+			"ShaderMapHash": "BE9EFF32DF9AF7F1ED1B04BE4AF2261507D8E033",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/Bed/Material_004"
 			]
 		},
 		{
@@ -164,27 +203,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2EB7B343B5AF77CFA1FEB3447391BAB7D7752257",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/twalet/Material_001"
+			]
+		},
+		{
 			"ShaderMapHash": "1335E54304D849A88C10F9B50935D832DA895592",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "57D9704421914F01E7EC25E1FA8241A7E47B382A",
+			"ShaderMapHash": "00467345D11F205D40CD43082E5EBF60DFC07989",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall"
+				"/Game/Daniels/Models/Furniture/plant/Material_007"
 			]
 		},
 		{
 			"ShaderMapHash": "642C5146BD7DDECE492BCE21090580FFD530FF5A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
-			]
-		},
-		{
-			"ShaderMapHash": "7B45CF47ECC57373F9035316FFE013B00E348F83",
-			"Assets": [
-				"/Game/Daniels/Models/Layout/materials/red"
 			]
 		},
 		{
@@ -218,6 +257,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "47FDA154B754AEFEA8A85F5D31C3C14746593DC4",
+			"Assets": [
+				"/Game/Daniels/Models/radios/Material_002"
+			]
+		},
+		{
 			"ShaderMapHash": "2F066C567E182B147360D6C4384B0E3D31B52247",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
@@ -245,6 +290,13 @@
 			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1CBD35DE968CDB4C110B5194E1665ACB1954FC5",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/twalet/Material_005",
+				"/Game/Daniels/Models/Furniture/twalet/Material_006"
 			]
 		},
 		{
@@ -310,7 +362,8 @@
 		{
 			"ShaderMapHash": "EAAC3D7A1A555FC61CD8F38D25604ABC96CF8EB5",
 			"Assets": [
-				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01"
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
 			]
 		},
 		{
@@ -376,7 +429,8 @@
 		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -389,6 +443,12 @@
 			"ShaderMapHash": "9C69178E89FA456B3EB4E95C30A83CA30A3208F8",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "D74B1A92C300A22E3817A7CAC8B3716D0D12A6D7",
+			"Assets": [
+				"/Game/Daniels/Models/radios/Material_003"
 			]
 		},
 		{
@@ -407,6 +467,12 @@
 			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B9D65DA3A3B81DD94712CF2AA34BCC37F683DAA0",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/Bed/Material_002"
 			]
 		},
 		{
@@ -488,6 +554,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BBDEEFB56C02D5EF2601C9059583A1F0A1E2A734",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/Bed/Material_003"
+			]
+		},
+		{
 			"ShaderMapHash": "8E6D54B62CEB9B08BD8801F79D6F9B42C829B7D3",
 			"Assets": [
 				"/Game/Daniels/Models/Layout/materials/wood"
@@ -510,6 +582,12 @@
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "13F0C1BC58F37E4C2292845D122926730B4341B4",
+			"Assets": [
+				"/Game/Daniels/Models/radios/Material_001"
 			]
 		},
 		{
@@ -573,6 +651,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0C9383D4B883209C03B7E2D42AF06EF49A3F81EE",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/twalet/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "4F2FDFD73B790023AC103A1B187DF63239228EF7",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/plant/Material_003",
+				"/Game/Daniels/Models/Furniture/plant/Material_012"
+			]
+		},
+		{
 			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -588,6 +679,14 @@
 			"ShaderMapHash": "134443E99E4225FBDA3206C8AEA70CA4590B02BA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "7C224BE9B44FE8B3DF55C7DD09231BADE9700F4A",
+			"Assets": [
+				"/Game/Daniels/Models/Furniture/Bed/Material_005",
+				"/Game/Daniels/Models/radios/Material_004",
+				"/Game/Daniels/Models/radios/Material_005"
 			]
 		},
 		{
@@ -630,12 +729,6 @@
 			"ShaderMapHash": "0832FFF6BCD2C53502C668EE2EA81CF786E3734E",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
-			]
-		},
-		{
-			"ShaderMapHash": "DA8413F785D606E8039168A5E6373594B8EB7642",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
