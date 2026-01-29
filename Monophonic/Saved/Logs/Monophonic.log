@@ -12818,3 +12818,20 @@ Sampler Limit: 32
 [2026.01.29-11.00.18:570][923]AssetCheck: /Game/Daniels/MonophonicMap Validating asset
 [2026.01.29-11.00.18:570][923]AssetCheck: /Game/Erin/Interactables/BP_Item_Sponge Validating asset
 [2026.01.29-11.00.18:570][923]AssetCheck: /Game/Fatih/Sponge Validating asset
+[2026.01.29-11.13.22:818][178]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Digital Audio (S/PDIF) (High Definition Audio Device), InstanceID=1
+[2026.01.29-11.13.23:134][178]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.01.29-11.13.23:134][178]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22244
+[2026.01.29-11.13.23:457][179]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.01.29-11.13.23:459][179]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{543dfcb0-6b1c-4131-bb6a-f72ee8ddd62d}, Name=Digital Audio (S/PDIF) (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.51
+[2026.01.29-11.13.23:465][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.29-11.13.23:467][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.29-11.21.14:174][591]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=5 - PHL 221S8L (AMD High Definition Audio Device), InstanceID=1
+[2026.01.29-11.21.14:206][591]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.01.29-11.21.14:206][591]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22244
+[2026.01.29-11.21.14:377][592]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 337) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{08158b9d-0256-46ca-bace-3c05b7d9ea93} Name=5 - PHL 221S8L (AMD High Definition Audio Device))
+[2026.01.29-11.21.14:379][592]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=3 - PHL 221S8L (AMD High Definition Audio Device), InstanceID=1
+[2026.01.29-11.21.14:474][592]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=5 - PHL 221S8L (AMD High Definition Audio Device), InstanceID=1
+[2026.01.29-11.21.15:206][594]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.01.29-11.21.15:209][594]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{08158b9d-0256-46ca-bace-3c05b7d9ea93}, Name=5 - PHL 221S8L (AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.53
+[2026.01.29-11.21.15:209][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.29-11.21.15:212][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
