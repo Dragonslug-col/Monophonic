@@ -253,6 +253,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "57D9704421914F01E7EC25E1FA8241A7E47B382A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
 			"ShaderMapHash": "EB9971441A84024BF3E36B5BC40BC656F3E53158",
 			"Assets": [
 				"/Game/Daniels/Models/Furniture/Material_004"
@@ -398,6 +404,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "85206369B17762CFD3ACC5E4FA3D6DC6E74FC54F",
+			"Assets": [
+				"/Game/Erin/MudTextures/Mud1Files/Mud1",
+				"/Game/Erin/MudTextures/Mud2Files/Mud2"
+			]
+		},
+		{
 			"ShaderMapHash": "3A94AB6C5626B8FE4415F3BD82E3DBEDE7BB4448",
 			"Assets": [
 				"/Game/Daniels/Models/Furniture/blinn2"
@@ -536,6 +549,12 @@
 			"ShaderMapHash": "70BE1B97F1045E0BC13E2B5CEA9FFFAFCEFFB096",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "A0462A9744E3D322DFADD265F48E00AEF2D3BF86",
+			"Assets": [
+				"/Game/Erin/SpongeMat"
 			]
 		},
 		{
@@ -772,6 +791,12 @@
 			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "8456E2D86FDE4EE75C1C682B4621378242E6871D",
+			"Assets": [
+				"/Game/Erin/MudTextures/Cleaned"
 			]
 		},
 		{

@@ -401,9 +401,12 @@
 /Game/Erin/HUD/tasktick1
 /Game/Erin/HUD/tbutton
 /Game/Erin/HUD/UI_HUD
+/Game/Erin/Interactables/BP_Dirt
+/Game/Erin/Interactables/BP_Dirt2
 /Game/Erin/Interactables/BP_Item_Bed
 /Game/Erin/Interactables/BP_Item_Plant
 /Game/Erin/Interactables/BP_Item_Plant2
+/Game/Erin/Interactables/BP_Item_Sponge
 /Game/Erin/Interactables/BP_Item_WateringCan
 /Game/Erin/Interactables/BP_MasterItem
 /Game/Erin/Interactables/GizmoMat
@@ -417,6 +420,15 @@
 /Game/Erin/InteractiveSystem/Outline
 /Game/Erin/InteractiveSystem/UI_Interact
 /Game/Erin/MonoGameInstance
+/Game/Erin/MudTextures/Cleaned
+/Game/Erin/MudTextures/Mud1Files/Mud1
+/Game/Erin/MudTextures/Mud1Files/Stains_ultwabqc_1K_Gloss
+/Game/Erin/MudTextures/Mud1Files/Stains_ultwabqc_1K_Mask
+/Game/Erin/MudTextures/Mud1Files/Stains_ultwabqc_1K_Roughness
+/Game/Erin/MudTextures/Mud2Files/Mud2
+/Game/Erin/MudTextures/Mud2Files/Stains_ultwaekc_1K_Gloss
+/Game/Erin/MudTextures/Mud2Files/Stains_ultwaekc_1K_Mask
+/Game/Erin/MudTextures/Mud2Files/Stains_ultwaekc_1K_Roughness
 /Game/Erin/NonInteractables/Item_Desk
 /Game/Erin/PostProcessing/Shader
 /Game/Erin/PostProcessing/ShaderInstance
@@ -442,6 +454,7 @@
 /Game/Erin/RadioInteractive/UIRadio/radiobase
 /Game/Erin/RadioInteractive/UIRadio/radioslider
 /Game/Erin/RadioInteractive/UIRadio/UI_Radio
+/Game/Erin/SpongeMat
 /Game/Erin/TitleScreenSetUp/DEMOTitleWalls
 /Game/Erin/TitleScreenSetUp/MenuGameMode
 /Game/Erin/TitleScreenSetUp/MenuPawn
@@ -449,6 +462,7 @@
 /Game/Erin/TitleScreenSetUp/OldNewspaperTypes_Font
 /Game/Erin/TitleScreenSetUp/TitleScreen
 /Game/Erin/TitleScreenSetUp/TitleUI
+/Game/Fatih/Sponge
 /Game/Fatih/WAVs/Placeholders/italian-442088
 /Game/Fatih/WAVs/Placeholders/leather-442654
 /Game/Fatih/WAVs/Placeholders/TestAM
@@ -506,8 +520,10 @@
 /Game/LevelPrototyping/Meshes/SM_Ramp
 /Game/LevelPrototyping/Textures/T_GridChecker_A
 /Game/StarterContent/Audio/Light01
+/Game/StarterContent/Materials/M_Basic_Wall
 /Game/StarterContent/Materials/M_Metal_Burnished_Steel
 /Game/StarterContent/Materials/M_Wood_Walnut
+/Game/StarterContent/Shapes/Shape_Plane
 /Game/StarterContent/Textures/T_MacroVariation
 /Game/StarterContent/Textures/T_Metal_Aluminum_D
 /Game/StarterContent/Textures/T_Metal_Gold_N

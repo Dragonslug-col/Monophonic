@@ -250,6 +250,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7232015C5F68ED0AE28BEB1D351BFF70D264108A",
+			"Assets": [
+				"/Game/Erin/SpongeMat"
+			]
+		},
+		{
 			"ShaderMapHash": "C7F3085E198FF082A8593D9808320B9560D787E5",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
@@ -317,6 +323,7 @@
 		{
 			"ShaderMapHash": "A71265703F0B34F16A10DA758AECFD9F1D6FBF39",
 			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
 			]
 		},
@@ -338,6 +345,12 @@
 			"ShaderMapHash": "7A9B1E747642FCB8DCC5D93EED7DC1095EAA983A",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0883B377634B61BC3EFC5B080C21B12D83026383",
+			"Assets": [
+				"/Game/Erin/MudTextures/Cleaned"
 			]
 		},
 		{
@@ -560,6 +573,13 @@
 			"ShaderMapHash": "DCD95DABF09BBB29B874627ADB0158E2C1E54CD2",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "F53C44AE397EAA3D1443BAED7532CDABAC38A49D",
+			"Assets": [
+				"/Game/Erin/MudTextures/Mud1Files/Mud1",
+				"/Game/Erin/MudTextures/Mud2Files/Mud2"
 			]
 		},
 		{
@@ -870,6 +890,12 @@
 			"ShaderMapHash": "2EDD26FBF47B3D2A840F3F774EBB87A78953A160",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "52BC4BFB4C722895518A1FCA05168DF4FEF7FA7C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
